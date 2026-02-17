@@ -1,6 +1,11 @@
 # scraper
 
-A Python library for extracting structured data from websites using LLM-based extraction, powered by [crawl4ai](https://github.com/unclecode/crawl4ai). Define the fields you want, point it at a URL, and get back clean, typed data.
+[![Python versions](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/promisingcoder/generic-scraper-1/blob/main/LICENSE)
+
+Extract structured data from any website using LLMs. Powered by [crawl4ai](https://github.com/unclecode/crawl4ai).
+
+Define the fields you want, point it at a URL, and get back clean, typed data. Supports single-page extraction, multi-URL batch processing, and full-site crawling with automatic link discovery.
 
 ## Installation
 
